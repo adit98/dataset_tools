@@ -1,0 +1,6 @@
+**/*.mp4
+**/*.hdf5
+
+# ignore individual dataset folders 1 by 1
+hemaa/
+instrument_database/
